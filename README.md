@@ -1,4 +1,4 @@
-# food_ordering_app
+# Food_ordering_app
 
 This app is Online food ordering App that you can order any food that you need.
 
